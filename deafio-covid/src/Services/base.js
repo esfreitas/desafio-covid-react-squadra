@@ -1,0 +1,1 @@
+export const URL_API = "https://covid-api.mmediagroup.fr/v1";
